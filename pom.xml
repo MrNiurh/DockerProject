@@ -26,36 +26,13 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/com.github.dblock.waffle/waffle-jna -->
-        <dependency>
-            <groupId>com.github.dblock.waffle</groupId>
-            <artifactId>waffle-jna</artifactId>
-            <version>1.5</version>
-        </dependency>
-        <dependency>
-            <groupId>net.java.dev.jna</groupId>
-            <artifactId>platform</artifactId>
-            <version>3.5.0</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-server -->
-        <dependency>
-            <groupId>org.eclipse.jetty</groupId>
-            <artifactId>jetty-server</artifactId>
-            <version>9.4.35.v20201120</version>
-        </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-servlet -->
-        <dependency>
-            <groupId>org.eclipse.jetty</groupId>
-            <artifactId>jetty-servlet</artifactId>
-            <version>9.4.35.v20201120</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
     </dependencies>
 
     <build>
